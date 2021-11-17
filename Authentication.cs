@@ -30,11 +30,11 @@ namespace HustGotReal_Tech
 
             driver.Navigate().GoToUrl(scrappingUrl);
 
-            var pageContent0 = driver.FindElement(By.XPath("//div[@class='module_products']//div[@class='col-sm-6 sector']//p[1]"));    
-            var pageContent = driver.FindElement(By.XPath("//div[@class='module_products']//div[@class='col-sm-6 sector']//p[2]"));
+            var contenido0 = driver.FindElement(By.XPath("//div[@class='module_products']//div[@class='col-sm-6 sector']//p[1]"));    
+            var contenido1 = driver.FindElement(By.XPath("//div[@class='module_products']//div[@class='col-sm-6 sector']//p[2]"));
 
-            String result0 = pageContent0.Text;
-            String result = pageContent.Text;
+            String result0 = contenido0.Text;
+            String result = contenido1.Text;
 
             TakeText.takeText(result0, result); //EJECUTAMOS EL ARCHIVO TAKETEXT, PARA IMPRIMIR EN CONSOLA EL TEXTO PEDIDO
 
