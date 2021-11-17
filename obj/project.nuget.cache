@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Nu1XKRRGGWhT02EPsBZOMAId1fCj715cRWgl6eDZA3Q6YLTttyOTjfKEo861QMMvX302Pd+fAUTp1M6BmjQDhA==",
+  "dgSpecHash": "daFwOrBf2Fij52Ai4nZbdBiMrA8IPxnHmdnVJKCgmle8kTEP6pBI6S6Rf3xQGPsTm02wks/6EpY1ydOecoMRBQ==",
   "success": true,
   "projectFilePath": "/Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/HustGotReal_Tech.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/iClon/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/iClon/.nuget/packages/selenium.webdriver/4.0.1/selenium.webdriver.4.0.1.nupkg.sha512",
+    "/Users/iClon/.nuget/packages/selenium.webdriver.chromedriver/96.0.4664.4500/selenium.webdriver.chromedriver.96.0.4664.4500.nupkg.sha512"
+  ],
   "logs": []
 }

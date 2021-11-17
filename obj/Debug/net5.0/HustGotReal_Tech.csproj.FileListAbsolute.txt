@@ -13,3 +13,6 @@
 /Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/obj/Debug/net5.0/ref/HustGotReal_Tech.dll
 /Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/obj/Debug/net5.0/HustGotReal_Tech.pdb
 /Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/obj/Debug/net5.0/HustGotReal_Tech.genruntimeconfig.cache
+/Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/bin/Debug/net5.0/WebDriver.dll
+/Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/obj/Debug/net5.0/HustGotReal_Tech.csproj.CopyComplete
