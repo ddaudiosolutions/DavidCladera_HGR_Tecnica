@@ -2,6 +2,8 @@ using System;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
+//USAMOS SELENIUM PARA HACER SCRAPPING PUES NOS SIRVE PARA HACER TEST SOBRE UN WEBROWSER.
+//EN ESTE CASO HE UTILIZADO CRHOMRDRIVER
 
 namespace HustGotReal_Tech
 {
