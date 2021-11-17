@@ -1,0 +1,15 @@
+/Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/bin/Debug/net5.0/HustGotReal_Tech.deps.json
+/Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/bin/Debug/net5.0/HustGotReal_Tech.runtimeconfig.json
+/Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/bin/Debug/net5.0/HustGotReal_Tech.runtimeconfig.dev.json
+/Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/bin/Debug/net5.0/HustGotReal_Tech.dll
+/Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/bin/Debug/net5.0/ref/HustGotReal_Tech.dll
+/Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/bin/Debug/net5.0/HustGotReal_Tech.pdb
+/Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/obj/Debug/net5.0/HustGotReal_Tech.csproj.AssemblyReference.cache
+/Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/obj/Debug/net5.0/HustGotReal_Tech.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/obj/Debug/net5.0/HustGotReal_Tech.AssemblyInfoInputs.cache
+/Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/obj/Debug/net5.0/HustGotReal_Tech.AssemblyInfo.cs
+/Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/obj/Debug/net5.0/HustGotReal_Tech.csproj.CoreCompileInputs.cache
+/Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/obj/Debug/net5.0/HustGotReal_Tech.dll
+/Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/obj/Debug/net5.0/ref/HustGotReal_Tech.dll
+/Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/obj/Debug/net5.0/HustGotReal_Tech.pdb
+/Volumes/Disco 1/MY_BOOTCAMP/CSHARP_DOTNET/HustGotReal_Tech/obj/Debug/net5.0/HustGotReal_Tech.genruntimeconfig.cache

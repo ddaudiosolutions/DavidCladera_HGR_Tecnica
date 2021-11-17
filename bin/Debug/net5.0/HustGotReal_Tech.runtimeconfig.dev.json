@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/iClon/.dotnet/store/|arch|/|tfm|",
+      "/Users/iClon/.nuget/packages"
+    ]
+  }
+}
